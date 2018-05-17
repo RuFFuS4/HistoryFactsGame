@@ -323,7 +323,8 @@ MonoBehaviour:
   m_PlayerSpawnMethod: 0
   m_OfflineScene: MainMenu
   m_OnlineScene: GameBoard
-  m_SpawnPrefabs: []
+  m_SpawnPrefabs:
+  - {fileID: 1394916830805724, guid: f2eb27dd3373ccf4da9b8c0a2732e363, type: 2}
   m_CustomConfig: 0
   m_MaxConnections: 4
   m_ConnectionConfig:
